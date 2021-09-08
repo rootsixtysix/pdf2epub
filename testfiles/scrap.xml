@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<marl version="2.1" xmlns="xxxx.xsd">
+    <mcdata id="2" scope="all" type="plan">
+        <header>
+            <log action="created"/>
+        </header>
+        <mObject class="foo" distName="a-1">
+            <p name="Ethernet">false</p>
+            <list name="pass"/>
+        </mObject>
+        <mObject class="bar" distName="a-1/b-2">
+            <p name="Voltage">false</p>
+        </mObject>
+    </mcdata>
+</marl>
